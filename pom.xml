@@ -37,11 +37,11 @@
        <version>2.3.0</version>
        <scope>provided</scope>
      </dependency>
-     <dependency>
-       <groupId>ru.yandex.clickhouse</groupId>
-       <artifactId>clickhouse-jdbc</artifactId>
-       <version>0.1.25</version>
-     </dependency>
+     <!--<dependency>-->
+       <!--<groupId>ru.yandex.clickhouse</groupId>-->
+       <!--<artifactId>clickhouse-jdbc</artifactId>-->
+       <!--<version>0.1.35</version>-->
+     <!--</dependency>-->
      <dependency>
        <groupId>com.fasterxml.jackson.core</groupId>
        <artifactId>jackson-core</artifactId>
